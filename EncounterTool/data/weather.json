@@ -1,0 +1,59 @@
+﻿{
+  "Temperatures": [
+    {
+      "ID": 1,
+      "Text": "Normal for the season",
+      "On": 14
+    },
+    {
+      "ID": 2,
+      "Text": "[$] x 10 degrees Fahrenheit colder than normal",
+      "On": 17,
+      "Rolls": [
+        "1d4"
+      ]
+    },
+    {
+      "ID": 3,
+      "Text": "[$] x 10 degrees Fahrenheit warmer than normal",
+      "On": 20,
+      "Rolls": [
+        "1d4"
+      ]
+    }
+  ],
+  "Winds": [
+    {
+      "ID": 1,
+      "Text": "None",
+      "On": 12
+    },
+    {
+      "ID": 2,
+      "Text": "Light",
+      "On": 17
+    },
+    {
+      "ID": 3,
+      "Text": "Heavy",
+      "On": 20
+    }
+  ],
+  "Precipitations": [
+    {
+      "ID": 1,
+      "Text": "None",
+      "On": 12
+    },
+    {
+      "ID": 2,
+      "Text": "Light rain or light snowfall",
+      "On": 17
+    },
+    {
+      "ID": 3,
+      "Text": "Heavy rain or heavy snowfall",
+      "On": 20
+    }
+  ]
+}

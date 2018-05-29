@@ -1,0 +1,11 @@
+C:\Users\joel\Desktop\EncounterTool\EncounterTool\bin\Debug\netcoreapp2.0\EncounterTool.deps.json
+C:\Users\joel\Desktop\EncounterTool\EncounterTool\bin\Debug\netcoreapp2.0\EncounterTool.runtimeconfig.json
+C:\Users\joel\Desktop\EncounterTool\EncounterTool\bin\Debug\netcoreapp2.0\EncounterTool.runtimeconfig.dev.json
+C:\Users\joel\Desktop\EncounterTool\EncounterTool\bin\Debug\netcoreapp2.0\EncounterTool.dll
+C:\Users\joel\Desktop\EncounterTool\EncounterTool\obj\Debug\netcoreapp2.0\EncounterTool.csprojAssemblyReference.cache
+C:\Users\joel\Desktop\EncounterTool\EncounterTool\obj\Debug\netcoreapp2.0\EncounterTool.csproj.CoreCompileInputs.cache
+C:\Users\joel\Desktop\EncounterTool\EncounterTool\obj\Debug\netcoreapp2.0\EncounterTool.AssemblyInfoInputs.cache
+C:\Users\joel\Desktop\EncounterTool\EncounterTool\obj\Debug\netcoreapp2.0\EncounterTool.AssemblyInfo.cs
+C:\Users\joel\Desktop\EncounterTool\EncounterTool\bin\Debug\netcoreapp2.0\EncounterTool.pdb
+C:\Users\joel\Desktop\EncounterTool\EncounterTool\obj\Debug\netcoreapp2.0\EncounterTool.dll
+C:\Users\joel\Desktop\EncounterTool\EncounterTool\obj\Debug\netcoreapp2.0\EncounterTool.pdb

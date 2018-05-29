@@ -1,0 +1,9 @@
+﻿{
+  "Environments": [
+    {
+      "ID": 1,
+      "Name": "Arctic",
+      "Temp": -2
+    }
+  ]
+}
