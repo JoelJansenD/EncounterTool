@@ -1,0 +1,12 @@
+﻿[
+  {
+    "ID": 1,
+    "Description": "Has a rival; wants {#} to suffer",
+    "HasTarget": true
+  },
+  {
+    "ID": 2,
+    "Description": "Is abused by others; hangs back, betrays at first opportunity",
+    "HasTarget": false
+  }
+]

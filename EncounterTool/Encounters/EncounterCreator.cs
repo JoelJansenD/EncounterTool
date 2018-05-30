@@ -8,5 +8,7 @@ namespace EncounterTool.Encounters
     {
         public Environment[] Environments;
         public Monster[] Monsters;
+        public Personality[] Personalities;
+        public Relationship[] Relationships;
     }
 }

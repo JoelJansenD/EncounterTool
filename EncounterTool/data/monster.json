@@ -1,16 +1,14 @@
-﻿{
-  "Monsters": [
-    {
-      "ID": 1,
-      "Name": "Goblin",
-      "Type": "Humanoid (goblin)",
-      "CR": 0.125
-    },
-    {
-      "ID": 2,
-      "Name": "Giant spider",
-      "Type": "Beast",
-      "CR": 0.25
-    }
-  ]
-}
+﻿[
+  {
+    "ID": 1,
+    "Name": "Goblin",
+    "Type": "Humanoid (goblin)",
+    "CR": 0.125
+  },
+  {
+    "ID": 2,
+    "Name": "Giant spider",
+    "Type": "Beast",
+    "CR": 0.25
+  }
+]

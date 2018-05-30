@@ -1,0 +1,12 @@
+﻿[
+  {
+    "ID": 1,
+    "Name": "Cowardly",
+    "Description": "Looking to surrender"
+  },
+  {
+    "ID": 2,
+    "Name": "Greedy",
+    "Description":  "Wants treasure"
+  }
+]

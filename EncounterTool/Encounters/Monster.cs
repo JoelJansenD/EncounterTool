@@ -6,7 +6,7 @@ namespace EncounterTool.Encounters
 {
     class Monster
     {
-        public int ID { get; private set; }
+        public int ID;
         public string Name;
         public string Type;
         public double CR;
@@ -25,6 +25,20 @@ namespace EncounterTool.Encounters
             }
 
             return 0;
+        }
+
+        public Monster GetCopy()
+        {
+            Monster copy = new Monster()
+            {
+                ID = ID,
+                Name = Name,
+                Type = Type,
+                CR = CR,
+                AppropriateMonsters = AppropriateMonsters
+            };
+
+            return copy;
         }
     }
 }
